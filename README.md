@@ -46,4 +46,4 @@ title('Frequency Response of Low Pass FIR Filter');
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/0546b6ac-b6b2-45f0-8c52-4d29a7a2eb5d" />
 
 # RESULT
-Thus, a Low Pass FIR Digital Filter was successfully designed using the Hanning window method in SCILAB.
+Thus, a Low Pass FIR Digital Filter was successfully designed using the Hanning window method in SCILAB..
